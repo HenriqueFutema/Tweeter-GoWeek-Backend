@@ -1,2 +1,2 @@
-# Tweeter-GoWeek
-Simples cópia do Tweeter com ReactJs e Nodejs
+# Tweeter-GoWeek-Backend
+Simples cópia do Tweeter com Nodejs Backend
